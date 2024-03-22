@@ -1,0 +1,9 @@
+langchain
+llama-cpp-python
+chromadb
+langchainhub
+ollama
+gpt4all
+pandas
+unstructured
+markdown
